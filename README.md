@@ -21,54 +21,56 @@ I'm particularly interested in Machine Learning, Computer Vision, and Object Det
 * C++
 * HTML
 * CSS
-*Java
+* Java
 
-##Data Science & Machine Learning
+## Data Science & Machine Learning
 
-*NumPy
-*Pandas
-*Scikit-learn
-*SciPy
-*CatBoost
-*SHAP
+* NumPy
+* Pandas
+* Scikit-learn
+* SciPy
+* CatBoost
+* SHAP
 
-##Big Data
+## Big Data
 
-*PySpark
+* PySpark
 
-##Computer Vision
+## Computer Vision
 
-*OpenCV
-*imutils
-*Shapely
-*Pillow (PIL)
+* OpenCV
+* imutils
+* Shapely
+* Pillow (PIL)
 
-##Visualization
+## Visualization
 
-*Matplotlib
-*Seaborn
+* Matplotlib
+* Seaborn
 
-##Databases & Data
+## Databases & Data
 
-*SQL
-*Oracle SQL / PL/SQL
-*SQLite
+* SQL
+* Oracle SQL / PL/SQL
+* SQLite
 
-##AI / NLP
+## AI / NLP
 
-*Gensim
-*Scikit-learn NLP tools
-*PySpark MLlib
+* Gensim
+* Scikit-learn NLP tools
+* PySpark MLlib
 
-Computer Vision & AI
+## Computer Vision & AI
 
-*OpenCV
-*YOLO
-*Computer Vision techniques
-*Object Detection
+* OpenCV
+* YOLO
+* Computer Vision techniques
+* Object Detection
 
 
-📫 How to reach me
+## 📫 How to reach me
 GitHub: 
+
 LinkedIn: <ins> https://www.linkedin.com/in/ali-halaseh-08386a306/ </ins>
+
 Email: <ins> ali.halaseh1@gmail.com </ins>
