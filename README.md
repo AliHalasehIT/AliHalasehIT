@@ -4,23 +4,23 @@ I'm a Data Science & AI student at **Princess Sumaya University for Technology**
 
 I'm particularly interested in Machine Learning, Computer Vision, and Object Detection, and I enjoy learning by building practical projects.
 
-##What am I currently working on?
-*Exploring Machine Learning and AI applications
-*Building projects involving Computer Vision & Object Detection
-*Working with data and developing ML models
-*Continuously learning new AI tools, techniques, and technologies
-*Building projects that turn AI concepts into practical applications
-*Tools & Technologies
+## What am I currently working on?
+* Exploring Machine Learning and AI applications
+* Building projects involving Computer Vision & Object Detection
+* Working with data and developing ML models
+* Continuously learning new AI tools, techniques, and technologies
+* Building projects that turn AI concepts into practical applications
+* Tools & Technologies
 
-##Languages
+## Languages
 
-*Python
-*SQL
-*R
-*C
-*C++
-*HTML
-*CSS
+* Python
+* SQL
+* R
+* C
+* C++
+* HTML
+* CSS
 *Java
 
 ##Data Science & Machine Learning
