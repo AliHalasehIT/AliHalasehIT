@@ -69,7 +69,7 @@ I'm particularly interested in Machine Learning, Computer Vision, and Object Det
 
 
 ## 📫 How to reach me
-GitHub: 
+GitHub: <ins> https://github.com/AliHalasehIT </ins> 
 
 LinkedIn: <ins> https://www.linkedin.com/in/ali-halaseh-08386a306/ </ins>
 
